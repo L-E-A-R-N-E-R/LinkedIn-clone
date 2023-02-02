@@ -1,5 +1,3 @@
-# CS166 Project Part 3
-
 ## Setup
 
 To start, execute the following commands inside of `sql/scripts`:
